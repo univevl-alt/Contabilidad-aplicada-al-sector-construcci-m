@@ -1,2 +1,2 @@
-# Contabilidad-aplicada-al-sector-construcci-m
+# Contabilidad-aplicada-al-sector-construcción
 Clases máster
